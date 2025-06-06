@@ -1,0 +1,30 @@
+- ImageProcessing
+  - .idea
+    - .gitignore
+    - ImageProcessing.iml
+    - inspectionProfiles
+      - profiles_settings.xml
+    - misc.xml
+    - modules.xml
+  - HandTrackingMin.py
+- pythonProject
+  - .idea
+    - .gitignore
+    - inspectionProfiles
+      - profiles_settings.xml
+    - misc.xml
+    - modules.xml
+    - pythonProject.iml
+  - main.py
+- VirtualMouse
+  - .idea
+    - .gitignore
+    - inspectionProfiles
+      - profiles_settings.xml
+    - misc.xml
+    - modules.xml
+    - VirtualMouse.iml
+  - AIVirtualMouse.py
+  - HandTrackingModule.py
+  - __pycache__
+    - HandTrackingModule.cpython-312.pyc
